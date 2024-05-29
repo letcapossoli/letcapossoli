@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @letcapossoli
+- 👀oi eu sou a Le, e estou aprendendo tecnologia e programação com os cursos do Alura
